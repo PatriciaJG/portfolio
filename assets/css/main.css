@@ -2418,11 +2418,12 @@ ul.icons.major {
 
 ul.icons.major li {
   padding-right: 3.5em;
+  padding-bottom: 3.5em;
 }
 
 @media screen and (max-width: 736px) {
   ul.icons.major li {
-    padding: 0 1em !important;
+    padding: 1em 1em !important;
   }
 }
 
@@ -3720,7 +3721,6 @@ body.is-menu-visible #menu {
 
 #banner p {
   letter-spacing: 0.225em;
-  text-transform: uppercase;
 }
 
 #banner p a {
